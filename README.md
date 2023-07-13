@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=f27466&center=true&width=800&lines=Medior+Laravel+Developer+from+Pakistan.;Passionate+and+down-to-earth+proof+that+we+can+change+the+world+with+fast-proven+technology%E2%AD%90." alt="Quote" /> -->
 </h3> 
 
-<a href="https://app.daily.dev/abdullah"><img align="right" src="https://api.daily.dev/devcards/fa07261b63474972b93edf49176d2f06.png?r=ya2" width="350" alt="tDev Card"/></a>
+<a href="https://app.daily.dev/abdullah">
+<!-- <img align="right" src="https://api.daily.dev/devcards/fa07261b63474972b93edf49176d2f06.png?r=ya2" width="350" alt="tDev Card"/></a> -->
 
 <p align="justify">Enthusiastic and driven student of Computer Science has good expertise and a solid background in React,Express Js related technologies and my experience with developing REST APIs with React Native mobile app development, user management, and multilingual features for web applications is impressive. My proficiency in JS, JQuery, and AJAX will be helpful in developing dynamic and interactive web applications.</p><br>
 
