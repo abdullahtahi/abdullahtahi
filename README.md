@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 - 📆 Working closely with product managers and front-end team to estimate project timelines.
 - 🧩 Passionate about finding simple and effective solutions to problems.
 - 🎯 Skilled at finding solutions to unfamiliar problems.
-
-<!-- - 🌱 Provide excellent communication skills, reporting directly to the CTO. -->
+- 🌱 Provide excellent communication skills, reporting directly to the CTO.
+- ⚡ I am very handy and has developed great skills in my two-year working experience of Mern Stack.
+<!--  -->
 <!-- - ⚡ I am very handy and has developed great skills in my one-year working experience of laravel.
 - 🌱 I'm now learning and growing my developer journey with Git deployment, Github, CI/CD pipeline Continous integration and Continous  deployment, Automated testing OR unit testing, TDD Test Driven Development.
 - 🌱 I'm also developing my AWS journey with AWS S3 storage, EC2 instance, and AWS RDS database certifications.
